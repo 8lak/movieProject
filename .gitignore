@@ -1,3 +1,5 @@
 *tsv*
 .venv/
 venv/
+.DS_Store
+movienetwork.zip
